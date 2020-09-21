@@ -9,7 +9,6 @@ ark
 autoconf
 automake
 baidunetdisk-bin
-balena-etcher
 base
 bashbullet
 binutils
@@ -24,7 +23,7 @@ capitaine-cursors
 chromedriver
 cpustat
 cuda
-davinci-resolve
+cueplot
 dbeaver
 dhcpcd
 docker
@@ -33,9 +32,12 @@ dunst
 efibootmgr
 electron-netease-cloud-music
 electrum
+emacs
+enigma
 evince
 exo
 fakeroot
+fdm
 feh
 file
 filelight
@@ -56,6 +58,7 @@ gimp
 git
 glances
 gnome-settings-daemon
+gnome-system-monitor
 goland-jre
 goldendict
 google-chrome
@@ -65,6 +68,7 @@ groff
 grub
 grub2-theme-archxion
 gtkmm
+gvim
 gzip
 hardinfo
 i3-gaps
@@ -72,6 +76,7 @@ i3blocks
 i3status
 ibus-rime
 imagemagick
+inkscape
 intel-ucode
 jq
 lib32-nvidia-utils
@@ -101,6 +106,7 @@ noto-fonts-extra
 npm
 nvidia
 nvidia-settings
+nyx
 obs-studio
 oh-my-zsh-git
 opencl-headers
@@ -123,6 +129,8 @@ py3status
 pycharm-community-edition
 python-pip
 qemu
+qtfind
+qtikz
 qv2ray
 ranger
 rofi
@@ -138,8 +146,8 @@ steam-fonts
 steamcmd
 sudo
 supervisor
+sushi
 tcpdump
-teamviewer
 telegram-desktop
 termite
 texinfo
@@ -176,7 +184,6 @@ tumbler
 typora
 v2ray
 vidalia
-vim
 virtualbox
 virtualbox-ext-oracle
 virtualbox-guest-dkms
@@ -205,7 +212,7 @@ xfdesktop
 xfwm4
 xfwm4-themes
 xkeycaps
-xmind
+xmind-2020
 xorg-bdftopcf
 xorg-docs
 xorg-font-util
@@ -262,4 +269,5 @@ yay
 you-get
 zeal-git
 zeronet
+zotero
 zsh
